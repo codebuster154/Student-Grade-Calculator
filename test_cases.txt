@@ -1,0 +1,57 @@
+case - 1:
+    Enter student name: Sandeep 
+    Enter marks (0-100): 95
+
+    RESULT FOR SANDEEP
+    Marks: 95/100
+    Grade: A
+    Message: Outstanding!!!
+
+case - 2:
+    Enter student name: Sandeep
+    Enter marks (0-100): 85
+
+    RESULT FOR SANDEEP
+    Marks: 85/100
+    Grade: B
+
+case - 3:
+    Enter student name: Sandeep
+    Enter marks (0-100): 75
+
+    RESULT FOR SANDEEP
+    Marks: 75/100
+    Grade: C
+    Message: Good effort, but you can do even better!
+
+case - 4:
+    Enter student name: Sandeep
+    Enter marks (0-100): 65
+
+    RESULT FOR SANDEEP
+    Marks: 65/100
+    Grade: D
+    Message: Improvement needed. Don't give up!
+
+case - 5:
+    Enter student name: Sandeep 
+    Enter marks (0-100): 55
+
+    RESULT FOR SANDEEP
+    Marks: 55/100
+    Grade: F
+    Message: Give 100% effort next time. You can improve!
+Invalid cases:
+    Enter student name: Sandeep 
+    Enter marks (0-100): -10
+    Invalid marks! Please enter between 0 and 100.
+    Enter marks (0-100): 120
+    Invalid marks! Please enter between 0 and 100.
+    Enter marks (0-100): ABC
+    Please enter a valid number.
+    Enter marks (0-100): 20
+
+    RESULT FOR SANDEEP
+    Marks: 20/100
+    Grade: F
+    Message: Give 100% effort next time. You can improve!
