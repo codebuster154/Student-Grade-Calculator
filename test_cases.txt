@@ -41,6 +41,7 @@ case - 5:
     Marks: 55/100
     Grade: F
     Message: Give 100% effort next time. You can improve!
+
 Invalid cases:
     Enter student name: Sandeep 
     Enter marks (0-100): -10
@@ -55,3 +56,4 @@ Invalid cases:
     Marks: 20/100
     Grade: F
     Message: Give 100% effort next time. You can improve!
+
